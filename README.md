@@ -71,13 +71,21 @@ Dataset/
 
 ## Deep Learning Models
 
-| Model | Architecture |
-|---------|---------|
-| <img src="images/icons/cnn.png" width="60"> | CNN |
-| <img src="images/icons/vgg16.png" width="60"> | VGG16 |
-| <img src="images/icons/alexnet.png" width="60"> | AlexNet |
-| <img src="images/icons/googlenet.png" width="60"> | GoogLeNet |
-| <img src="images/icons/densenet201.png" width="60"> | DenseNet201 |
+<p align="center">
+  <img src="images/icons/cnn.png" width="120">
+  <img src="images/icons/vgg16.png" width="120">
+  <img src="images/icons/alexnet.png" width="120">
+  <img src="images/icons/googlenet.png" width="120">
+  <img src="images/icons/densenet201.png" width="120">
+</p>
+
+<p align="center">
+  CNN &nbsp;&nbsp;&nbsp;&nbsp;
+  VGG16 &nbsp;&nbsp;&nbsp;&nbsp;
+  AlexNet &nbsp;&nbsp;&nbsp;&nbsp;
+  GoogLeNet &nbsp;&nbsp;&nbsp;&nbsp;
+  DenseNet201
+</p>
 ---
 
 ## Methodology
