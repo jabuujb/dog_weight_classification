@@ -1,4 +1,5 @@
 # Dog Weight Classification Using Deep Learning
+<img width="603" height="215" alt="image" src="https://github.com/user-attachments/assets/d0b58418-7ec5-4aed-b66e-36ebb2591a43" />
 
 ## Overview
 
