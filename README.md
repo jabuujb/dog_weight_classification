@@ -7,6 +7,12 @@ This project explores the use of Deep Learning and Computer Vision to classify d
 
 This project was completed as part of EE 267 (Computer Vision & Deep Learning).
 
+## Project Demonstration
+
+A video demonstration of the project, model performance, and classification results is available here:
+
+[Watch Project Demonstration](https://youtu.be/EeUCic0kv9o)
+
 ### Weight Classes
 
 | Class | Weight Range |
