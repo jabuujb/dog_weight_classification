@@ -20,7 +20,9 @@ This project was completed as part of EE 267 (Computer Vision & Deep Learning).
 ## Dataset
 
 **Dataset Source:**
+<img width="1284" height="203" alt="image" src="https://github.com/user-attachments/assets/51cc9565-21a0-499d-bf3f-c56222eaebc9" />
 - Kaggle: Introducing DCGAN Dogs Images
+- Link: https://www.kaggle.com/code/jesucristo/introducing-dcgan-dogs-images 
 
 **Dataset Characteristics:**
 - 120 dog breeds
