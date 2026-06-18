@@ -47,20 +47,19 @@ Dataset/
 
 ## Technologies Used
 
-### Programming Languages
-- Python
+## Technologies
+
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?logo=keras&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?logo=plotly&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?logo=opencv&logoColor=white)
 
 ### Development Environment
 - Jupyter Notebook
 - Google Colab
-
-### Libraries
-- TensorFlow
-- Keras
-- NumPy
-- Matplotlib
-- Pandas
-- OpenCV
 
 ### Deep Learning Models
 - CNN
@@ -68,24 +67,6 @@ Dataset/
 - AlexNet
 - GoogLeNet (Inception)
 - DenseNet201
-
-<h3>Deep Learning Models</h3>
-
-<p align="center">
-  <img width="120" alt="CNN" src="PASTE_CNN_LINK_HERE">
-  <img width="120" alt="VGG16" src="PASTE_VGG16_LINK_HERE">
-  <img width="120" alt="AlexNet" src="PASTE_ALEXNET_LINK_HERE">
-  <img width="120" alt="GoogLeNet" src="PASTE_GOOGLENET_LINK_HERE">
-  <img width="120" alt="DenseNet201" src="PASTE_DENSENET201_LINK_HERE">
-</p>
-
-<p align="center">
-  CNN &nbsp;&nbsp;&nbsp;
-  VGG16 &nbsp;&nbsp;&nbsp;
-  AlexNet &nbsp;&nbsp;&nbsp;
-  GoogLeNet &nbsp;&nbsp;&nbsp;
-  DenseNet201
-</p>
 ---
 
 ## Methodology
