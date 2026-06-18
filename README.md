@@ -43,6 +43,12 @@ Dataset/
     └── Giant/
 ```
 
+## Configuration
+
+This project was originally developed in Google Colab using Google Drive for dataset storage.
+
+Before running the notebook, update the dataset paths to match your local or cloud storage configuration.
+
 ---
 
 ## Technologies
