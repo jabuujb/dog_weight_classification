@@ -193,11 +193,6 @@ dog-weight-classification/
 ├── report/
 │   └── EE267_Final_Report.pdf
 │
-├── images/
-│   ├── sample_predictions/
-│   ├── model_architectures/
-│   └── results/
-│
 ├── README.md
 ├── requirements.txt
 └── LICENSE
