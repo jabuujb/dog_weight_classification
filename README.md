@@ -212,10 +212,27 @@ dog-weight-classification/
 
 ## References
 
-1. Jesucristo (2019). Introducing DCGAN Dogs Images. Kaggle.
+
+1. Jesucristo. *Introducing DCGAN Dogs Images*. Kaggle, 2019.
+   https://www.kaggle.com/code/jesucristo/introducing-dcgan-dogs-images
+
 2. TensorFlow Documentation.
+   https://www.tensorflow.org/
+
 3. Keras Documentation.
-4. ImageNet Pretrained Networks.
+   https://keras.io/
+
+4. ImageNet Dataset and Pretrained Models.
+   https://www.image-net.org/
+
+5. Simonyan, K., & Zisserman, A. (2014). *Very Deep Convolutional Networks for Large-Scale Image Recognition (VGG16)*.
+
+6. Krizhevsky, A., Sutskever, I., & Hinton, G. E. (2012). *ImageNet Classification with Deep Convolutional Neural Networks (AlexNet)*.
+
+7. Szegedy, C., et al. (2016). *Rethinking the Inception Architecture for Computer Vision (InceptionV3)*.
+
+8. Huang, G., Liu, Z., Van Der Maaten, L., & Weinberger, K. Q. (2017). *Densely Connected Convolutional Networks (DenseNet)*.
+
 
 ---
 
