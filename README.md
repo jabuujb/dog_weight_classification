@@ -45,8 +45,6 @@ Dataset/
 
 ---
 
-## Technologies Used
-
 ## Technologies
 
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
@@ -67,6 +65,7 @@ Dataset/
 - AlexNet
 - GoogLeNet (Inception)
 - DenseNet201
+
 ---
 
 ## Methodology
