@@ -6,28 +6,6 @@ This project explores the use of Deep Learning and Computer Vision to classify d
 
 This project was completed as part of EE 267 (Computer Vision & Deep Learning).
 
-## Project Screenshots
-
-### Sample Test Images
-
-<img src="images/sample_predictions/test_images.png" width="700">
-
-### Neural Network Accuracy Comparison
-
-<img src="images/results/neural_network_accuracy.png" width="700">
-
-### Overall Model Performance
-
-<img src="images/results/model_accuracy_comparison.png" width="700">
-
-### CNN Architecture
-
-<img src="images/model_architectures/cnn_architecture.png" width="700">
-
-### GoogLeNet Architecture
-
-<img src="images/model_architectures/googlenet_architecture.png" width="700">
-
 ### Weight Classes
 
 | Class | Weight Range |
@@ -91,6 +69,15 @@ Dataset/
 - GoogLeNet (Inception)
 - DenseNet201
 
+## Deep Learning Models
+
+| Model | Architecture |
+|---------|---------|
+| <img src="images/icons/cnn.png" width="60"> | CNN |
+| <img src="images/icons/vgg16.png" width="60"> | VGG16 |
+| <img src="images/icons/alexnet.png" width="60"> | AlexNet |
+| <img src="images/icons/googlenet.png" width="60"> | GoogLeNet |
+| <img src="images/icons/densenet201.png" width="60"> | DenseNet201 |
 ---
 
 ## Methodology
