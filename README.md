@@ -69,22 +69,23 @@ Dataset/
 - GoogLeNet (Inception)
 - DenseNet201
 
-## Model Architectures
+<h3>Deep Learning Models</h3>
 
-### CNN
-![CNN](cnn.png)
+<p align="center">
+  <img width="120" alt="CNN" src="PASTE_CNN_LINK_HERE">
+  <img width="120" alt="VGG16" src="PASTE_VGG16_LINK_HERE">
+  <img width="120" alt="AlexNet" src="PASTE_ALEXNET_LINK_HERE">
+  <img width="120" alt="GoogLeNet" src="PASTE_GOOGLENET_LINK_HERE">
+  <img width="120" alt="DenseNet201" src="PASTE_DENSENET201_LINK_HERE">
+</p>
 
-### VGG16
-![VGG16](vgg16.png)
-
-### AlexNet
-![AlexNet](alexnet.png)
-
-### GoogLeNet
-![GoogLeNet](googlenet.png)
-
-### DenseNet201
-![DenseNet201](densenet201.png)
+<p align="center">
+  CNN &nbsp;&nbsp;&nbsp;
+  VGG16 &nbsp;&nbsp;&nbsp;
+  AlexNet &nbsp;&nbsp;&nbsp;
+  GoogLeNet &nbsp;&nbsp;&nbsp;
+  DenseNet201
+</p>
 ---
 
 ## Methodology
