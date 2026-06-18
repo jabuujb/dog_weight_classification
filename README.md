@@ -16,7 +16,6 @@ This project was completed as part of EE 267 (Computer Vision & Deep Learning).
 | Large | 59 – 99 lbs |
 | Giant | 100+ lbs |
 
----
 
 ## Dataset
 
@@ -49,8 +48,6 @@ Dataset/
 This project was originally developed in Google Colab using Google Drive for dataset storage.
 Before running the notebook, update the dataset paths to match your local or cloud storage configuration.
 
----
-
 ## Technologies
 
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
@@ -71,8 +68,6 @@ Before running the notebook, update the dataset paths to match your local or clo
 - AlexNet
 - GoogLeNet (Inception)
 - DenseNet201
-
----
 
 ## Methodology
 
@@ -102,8 +97,6 @@ Learning Rate = 0.0001
 - GoogLeNet
 - DenseNet201
 
----
-
 ## Results
 
 ### Overall Accuracy
@@ -126,8 +119,6 @@ Learning Rate = 0.0001
 #### DenseNet201
 - 61.61% accuracy
 - Correctly classified 5 of 6 test images
-
----
 
 ## Example Test Images
 
@@ -160,14 +151,12 @@ Learning Rate = 0.0001
 - Larger pretrained models demonstrated improved feature extraction capabilities.
 - Increasing training epochs would likely improve classification accuracy.
 
----
 ## Project Demonstration
 
 A video demonstration of the project, model performance, and classification results is available here:
 
 [Watch Project Demonstration](https://youtu.be/EeUCic0kv9o)
 
----
 
 ## Future Improvements
 
@@ -182,8 +171,6 @@ Potential future enhancements include:
 - Improved subclassification of small dog breeds
 - Model optimization for edge devices
 
----
-
 ## Skills Demonstrated
 
 - Deep Learning
@@ -196,8 +183,6 @@ Potential future enhancements include:
 - Python Development
 - TensorFlow/Keras
 - Experimental Analysis
-
----
 
 ## Repository Structure
 
@@ -214,8 +199,6 @@ dog-weight-classification/
 ├── requirements.txt
 └── LICENSE
 ```
-
----
 
 ## References
 
@@ -240,8 +223,6 @@ dog-weight-classification/
 
 8. Huang, G., Liu, Z., Van Der Maaten, L., & Weinberger, K. Q. (2017). *Densely Connected Convolutional Networks (DenseNet)*.
 
-
----
 
 ## Author
 
